@@ -19,7 +19,7 @@ void loop() {
   duration = pulseIn(echoPin, HIGH);
   distance = (duration*.0343)/2;
   if(limit>500)
-  serial.println(distance"high");
+  Serial.println(distance"high");
   else
   Serial.println(distance);
   delay(100);
