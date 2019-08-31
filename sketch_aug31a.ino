@@ -1,3 +1,4 @@
+//sonic sensor
 const int trigPin = 9;
 const int echoPin = 10;
 const int limit=500;
