@@ -1,4 +1,4 @@
-
+\\figaro sensor
 #define         MQ_PIN                       (0)    
 #define         RL_VALUE                     (20)  
 #define         RO_CLEAN_AIR_FACTOR          (10)
